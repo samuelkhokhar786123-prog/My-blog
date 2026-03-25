@@ -1,2 +1,2 @@
 # My-blog
-My earning blog
+My earning blogs 
